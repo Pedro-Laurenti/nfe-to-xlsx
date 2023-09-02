@@ -47,6 +47,14 @@ The final result is an Excel file named "output.xlsx," containing consolidated d
 
 **Note**: Customize batch settings (`batch_size`) and the XML file directory (`xml_folder`) as needed.
 
+<br>
+
+<br>
+
+<br>
+
+<hr>
+<hr>
 
 <details>
   <summary> Tradução PT-BR </summary>
